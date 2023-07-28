@@ -1,342 +1,386 @@
 [
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.awesomeproject.app-main-33:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_jnt.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_jnt.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_grap.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_grap.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_box.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_box.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_user.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_user.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_heart.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_arrow_left_line.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_arrow_left_line.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_callendar.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_callendar.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_filter.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_filter.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_scan.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_scan.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_target_bonus.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_bg_target_bonus.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_change_foco_coint.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_change_foco_coint.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_logo_folony.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_logo_folony.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_scan.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_scan.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_gojek.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_gojek.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_bca.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_bca.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_card_blue.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_bg_card_blue.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_24.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_24.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_arrow_right.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_arrow_right.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_search.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_search.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_sicepat.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_sicepat.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_trash.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_trash.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_target.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_target.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_cimg.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_cimg.png"
     },
     {
         "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "com.awesomeproject.app-main-33:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.awesomeproject.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_radio_button_on.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_radio_button_on.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_jne.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_jne.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_logistic.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_logistic.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_line_header.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_line_header.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_ovo.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_ovo.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_checkbox_blank.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_checkbox_blank.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_mandiri.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_mandiri.png"
     },
     {
         "merged": "com.awesomeproject.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
         "source": "com.awesomeproject.app-main-33:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_howto_invite.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_bg_howto_invite.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_ovo.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_ovo.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_line_header.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_line_header.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_filter.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_filter.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_arrow_right.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_card_orange.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_bg_card_orange.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_finance.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_finance.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_toogle_off.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_toogle_off.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_24.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_24.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_callendar.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_callendar.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_dana.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_dana.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_bca.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_bca.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.awesomeproject.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_maxim.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_maxim.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_toogle_off.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_toogle_off.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_jne.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_jne.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_checkbox.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_checkbox.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_hub.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_hub.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_user_line.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_user_line.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_google.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_google.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_new_send.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_new_send.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_no_img.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_bg_no_img.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.awesomeproject.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_gojek.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_gojek.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_new_order.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_new_order.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_google.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_google.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_eye_close.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_eye_close.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_eye_close.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_eye_close.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_send_hub.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_send_hub.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_change_foco_point.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_change_foco_point.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_foco_voucher.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_foco_voucher.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_share.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_share.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_dana.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_dana.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnative_libraries_newappscreen_components_logo.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_share.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_share.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_success.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_success.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_finance.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_finance.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_target.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_target.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.awesomeproject.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_bg_card_orange.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_bg_card_orange.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_cod.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_cod.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.awesomeproject.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_switch.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_switch.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_new_send.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_new_send.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_checkbox.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_checkbox.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_change_foco_point.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_change_foco_point.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_coint.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_coint.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.awesomeproject.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable_rn_edit_text_material.xml.flat",
-        "source": "com.awesomeproject.app-main-33:/drawable/rn_edit_text_material.xml"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_eye_open.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_eye_open.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_toogle_on.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_toogle_on.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_mandiri.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_mandiri.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_inventory.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_inventory.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_gopay.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_gopay.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_user_line.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_user_line.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_rewards.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_bg_rewards.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_cimg.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_cimg.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_jnt.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_jnt.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_radio_button_off.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_radio_button_off.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_share_coint.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_share_coint.png"
-    },
-    {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_success.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_success.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_search.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_search.png"
     },
     {
         "merged": "com.awesomeproject.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "com.awesomeproject.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_retur_order.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_retur_order.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_switch.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_switch.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_voucher.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_bg_voucher.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_rocket.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_wa.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_wa.png"
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_gopay.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_gopay.png"
     },
     {
-        "merged": "com.awesomeproject.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_scan_white.png.flat",
-        "source": "com.awesomeproject.app-react-27:/drawable-mdpi/app_assets_icon_ic_scan_white.png"
+        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.awesomeproject.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_bg_card_blue.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_bg_card_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_eye_open.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_eye_open.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_logo_folony.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_logo_folony.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_arrow_left_line.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_arrow_left_line.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_user.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_trash.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_coint.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_coint.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_retur_order.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_retur_order.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_arrow_bottom.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_arrow_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_bg_rewards.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_bg_rewards.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_share_coint.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_share_coint.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_inventory.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_inventory.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_checkbox_blank.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_checkbox_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_bg_howto_invite.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_bg_howto_invite.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_maxim.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_maxim.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_grap.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_grap.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_bg_target_bonus.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_bg_target_bonus.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_sicepat.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_sicepat.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_scan_white.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_scan_white.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_new_order.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_new_order.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_radio_button_off.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_radio_button_off.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.awesomeproject.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_hub.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_hub.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_bg_no_img.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_bg_no_img.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_wa.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_wa.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_bg_voucher.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_bg_voucher.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_change_foco_coint.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_change_foco_coint.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-main-33:\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.awesomeproject.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_radio_button_on.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_radio_button_on.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_send_hub.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_send_hub.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_toogle_on.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_toogle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_foco_voucher.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_foco_voucher.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_box.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_box.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_cod.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_cod.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-mdpi_app_assets_icon_ic_logistic.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-mdpi\\app_assets_icon_ic_logistic.png"
+    },
+    {
+        "merged": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-merged_res-32:\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\azzam\\.gradle\\daemon\\7.5.1\\com.awesomeproject.app-react-27:\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
     }
 ]

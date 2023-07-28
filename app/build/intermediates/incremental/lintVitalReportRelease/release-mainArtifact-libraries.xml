@@ -78,6 +78,32 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
+      name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-gesture-handler::release"
+      jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\.transforms\d50dcb045779909135b1faddbcd509e9\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\.transforms\d50dcb045779909135b1faddbcd509e9\transformed\out\jars\libs\R.jar"
+      resolved="AwesomeProject:react-native-gesture-handler:unspecified"
+      folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\.transforms\d50dcb045779909135b1faddbcd509e9\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-reanimated"
+      jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-reanimated\android\build\.transforms\612b6a8ab49e207e1d713f258ba4a0de\transformed\jetified-react-native-reanimated-67-hermes\jars\classes.jar"
+      resolved="artifacts:react-native-reanimated:unspecified"
+      folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-reanimated\android\build\.transforms\612b6a8ab49e207e1d713f258ba4a0de\transformed\jetified-react-native-reanimated-67-hermes"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-safe-area-context::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\.transforms\63acc48636152ebb81a6f533e0b8da93\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\.transforms\63acc48636152ebb81a6f533e0b8da93\transformed\out\jars\libs\R.jar"
       resolved="AwesomeProject:react-native-safe-area-context:unspecified"
@@ -1012,10 +1038,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar"
-      jars="C:\Users\azzam\.gradle\caches\transforms-3\de2f586d8f3e60b06e5ec33b220a568f\transformed\coordinatorlayout-1.1.0\jars\classes.jar"
-      resolved="androidx.coordinatorlayout:coordinatorlayout:1.1.0"
-      folder="C:\Users\azzam\.gradle\caches\transforms-3\de2f586d8f3e60b06e5ec33b220a568f\transformed\coordinatorlayout-1.1.0"
+      name="androidx.core:core-ktx:1.6.0@aar"
+      jars="C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0\jars\classes.jar"
+      resolved="androidx.core:core-ktx:1.6.0"
+      folder="C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -1025,10 +1051,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.core:core-ktx:1.5.0@aar"
-      jars="C:\Users\azzam\.gradle\caches\transforms-3\89454c7f4ac0b9e53489a333b944caf5\transformed\jetified-core-ktx-1.5.0\jars\classes.jar"
-      resolved="androidx.core:core-ktx:1.5.0"
-      folder="C:\Users\azzam\.gradle\caches\transforms-3\89454c7f4ac0b9e53489a333b944caf5\transformed\jetified-core-ktx-1.5.0"
+      name="androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar"
+      jars="C:\Users\azzam\.gradle\caches\transforms-3\de2f586d8f3e60b06e5ec33b220a568f\transformed\coordinatorlayout-1.1.0\jars\classes.jar"
+      resolved="androidx.coordinatorlayout:coordinatorlayout:1.1.0"
+      folder="C:\Users\azzam\.gradle\caches\transforms-3\de2f586d8f3e60b06e5ec33b220a568f\transformed\coordinatorlayout-1.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

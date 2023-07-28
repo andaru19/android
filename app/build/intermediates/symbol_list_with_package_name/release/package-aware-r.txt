@@ -55,6 +55,7 @@ anim rns_slide_in_from_right
 anim rns_slide_out_to_bottom
 anim rns_slide_out_to_left
 anim rns_slide_out_to_right
+anim rns_standard_accelerate_interpolator
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -1379,6 +1380,7 @@ drawable app_assets_icon_bg_rewards
 drawable app_assets_icon_bg_target_bonus
 drawable app_assets_icon_bg_voucher
 drawable app_assets_icon_ic_24
+drawable app_assets_icon_ic_arrow_bottom
 drawable app_assets_icon_ic_arrow_left_line
 drawable app_assets_icon_ic_arrow_right
 drawable app_assets_icon_ic_bca
