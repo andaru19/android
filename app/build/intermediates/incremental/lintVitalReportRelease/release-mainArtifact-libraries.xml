@@ -91,6 +91,19 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
+      name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-image-picker::release"
+      jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\.transforms\daf2d6659526e8ab456f1ea12f4394d2\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\.transforms\daf2d6659526e8ab456f1ea12f4394d2\transformed\out\jars\libs\R.jar"
+      resolved="AwesomeProject:react-native-image-picker:unspecified"
+      folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\.transforms\daf2d6659526e8ab456f1ea12f4394d2\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-reanimated"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-reanimated\android\build\.transforms\612b6a8ab49e207e1d713f258ba4a0de\transformed\jetified-react-native-reanimated-67-hermes\jars\classes.jar"
       resolved="artifacts:react-native-reanimated:unspecified"
@@ -1025,10 +1038,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.exifinterface:exifinterface:1.3.2@aar"
-      jars="C:\Users\azzam\.gradle\caches\transforms-3\8e856f3b2edc30c353882e1799c77afd\transformed\exifinterface-1.3.2\jars\classes.jar"
-      resolved="androidx.exifinterface:exifinterface:1.3.2"
-      folder="C:\Users\azzam\.gradle\caches\transforms-3\8e856f3b2edc30c353882e1799c77afd\transformed\exifinterface-1.3.2"
+      name="androidx.core:core-ktx:1.6.0@aar"
+      jars="C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0\jars\classes.jar"
+      resolved="androidx.core:core-ktx:1.6.0"
+      folder="C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -1038,10 +1051,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.core:core-ktx:1.6.0@aar"
-      jars="C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0\jars\classes.jar"
-      resolved="androidx.core:core-ktx:1.6.0"
-      folder="C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0"
+      name="androidx.exifinterface:exifinterface:1.3.3@aar"
+      jars="C:\Users\azzam\.gradle\caches\transforms-3\bb7a6f03e415ef2fd3d5eca67e03742e\transformed\exifinterface-1.3.3\jars\classes.jar"
+      resolved="androidx.exifinterface:exifinterface:1.3.3"
+      folder="C:\Users\azzam\.gradle\caches\transforms-3\bb7a6f03e415ef2fd3d5eca67e03742e\transformed\exifinterface-1.3.3"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

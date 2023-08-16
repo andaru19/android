@@ -8,6 +8,7 @@ MERGED from [:react-native-async-storage_async-storage] C:\Users\azzam\Documents
 MERGED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalRelease\AndroidManifest.xml:2:1-18:12
 MERGED from [:react-native-device-info] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-device-info\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
 MERGED from [:react-native-safe-area-context] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-svg] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
@@ -60,8 +61,8 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Us
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\azzam\.gradle\caches\transforms-3\e10d42f9790af878bc1fca64d47f0840\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\f866ac86806838fdba305110c8e325d8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\8788f8c50644feb69aa35d8913ee6f1b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\azzam\.gradle\caches\transforms-3\8e856f3b2edc30c353882e1799c77afd\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\azzam\.gradle\caches\transforms-3\bb7a6f03e415ef2fd3d5eca67e03742e\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\de2f586d8f3e60b06e5ec33b220a568f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\c74cecc24334585b694344385971250b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\a409bf01ffdba7092e9a6645b6ddae89\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -128,6 +129,8 @@ MERGED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProje
 		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:4:22-62
 application
 ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
 MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\azzam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\azzam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\ff06b511a3b64a9f992a538e90dfb504\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
@@ -222,6 +225,8 @@ MERGED from [:react-native-device-info] C:\Users\azzam\Documents\project\Awesome
 MERGED from [:react-native-device-info] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-device-info\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
@@ -326,10 +331,10 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\azz
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\f866ac86806838fdba305110c8e325d8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\8788f8c50644feb69aa35d8913ee6f1b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\8788f8c50644feb69aa35d8913ee6f1b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\azzam\.gradle\caches\transforms-3\8e856f3b2edc30c353882e1799c77afd\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\azzam\.gradle\caches\transforms-3\8e856f3b2edc30c353882e1799c77afd\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\azzam\.gradle\caches\transforms-3\4587de546ab4deb1fbfdb6067cba3bc5\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\azzam\.gradle\caches\transforms-3\bb7a6f03e415ef2fd3d5eca67e03742e\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\azzam\.gradle\caches\transforms-3\bb7a6f03e415ef2fd3d5eca67e03742e\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\de2f586d8f3e60b06e5ec33b220a568f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\de2f586d8f3e60b06e5ec33b220a568f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\c74cecc24334585b694344385971250b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -418,6 +423,22 @@ ADDED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProjec
 		ADDED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalRelease\AndroidManifest.xml:16:9-33
 	android:name
 		ADDED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalRelease\AndroidManifest.xml:15:9-57
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
 service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
 ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\azzam\.gradle\caches\transforms-3\fca762e6cf5fc0126956ed39ffd224c2\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:9:9-15:19
 MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\azzam\.gradle\caches\transforms-3\2dde5d194bd4e52116b9bf1fb1a1314b\transformed\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:9:9-15:19
