@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.awesomeproject.app-mergeDebugResources-30:/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "com.folony.app-mergeDebugResources-30:/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "C:\\Users\\azzam\\.gradle\\caches\\transforms-3\\390fec0296bc36742fba54a420c04065\\transformed\\appcompat-1.4.1\\res\\values-pt-rPT\\values-pt-rPT.xml",

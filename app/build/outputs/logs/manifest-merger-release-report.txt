@@ -189,7 +189,7 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\azzam\.gradle\c
 		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:name
 		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:7:7-38
-activity#com.awesomeproject.MainActivity
+activity#com.folony.MainActivity
 ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:13:7-24:18
 	android:label
 		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:15:9-41

@@ -3,7 +3,7 @@
     dir="C:\Users\azzam\Documents\project\AwesomeProject\android\app"
     name=":app"
     type="APP"
-    maven="AwesomeProject:app:"
+    maven="FoLonY:app:"
     gradle="7.3.1"
     buildFolder="build"
     bootClassPath="C:\Users\azzam\AppData\Local\Android\Sdk\platforms\android-33\android.jar;C:\Users\azzam\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"

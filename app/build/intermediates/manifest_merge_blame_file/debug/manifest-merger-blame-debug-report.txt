@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.awesomeproject"
+3    package="com.folony"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -46,7 +46,7 @@
 26
 27    <application
 27-->C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:5-25:19
-28        android:name="com.awesomeproject.MainApplication"
+28        android:name="com.folony.MainApplication"
 28-->C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:7:7-38
 29        android:allowBackup="false"
 29-->C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:11:7-34
@@ -71,7 +71,7 @@
 39-->C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\debug\AndroidManifest.xml:11:84-108
 40        <activity
 40-->C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:13:7-24:18
-41            android:name="com.awesomeproject.MainActivity"
+41            android:name="com.folony.MainActivity"
 41-->C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:14:9-37
 42            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
 42-->C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:16:9-118
@@ -99,7 +99,7 @@
 54-->[:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 55            android:name="com.imagepicker.ImagePickerProvider"
 55-->[:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-63
-56            android:authorities="com.awesomeproject.imagepickerprovider"
+56            android:authorities="com.folony.imagepickerprovider"
 56-->[:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-71
 57            android:exported="false"
 57-->[:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
@@ -157,7 +157,7 @@
 85-->[com.google.mlkit:common:17.2.0] C:\Users\azzam\.gradle\caches\transforms-3\08cf4ee2a5874addb4e56077e009851c\transformed\jetified-common-17.2.0\AndroidManifest.xml:9:9-13:38
 86            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
 86-->[com.google.mlkit:common:17.2.0] C:\Users\azzam\.gradle\caches\transforms-3\08cf4ee2a5874addb4e56077e009851c\transformed\jetified-common-17.2.0\AndroidManifest.xml:10:13-78
-87            android:authorities="com.awesomeproject.mlkitinitprovider"
+87            android:authorities="com.folony.mlkitinitprovider"
 87-->[com.google.mlkit:common:17.2.0] C:\Users\azzam\.gradle\caches\transforms-3\08cf4ee2a5874addb4e56077e009851c\transformed\jetified-common-17.2.0\AndroidManifest.xml:11:13-69
 88            android:exported="false"
 88-->[com.google.mlkit:common:17.2.0] C:\Users\azzam\.gradle\caches\transforms-3\08cf4ee2a5874addb4e56077e009851c\transformed\jetified-common-17.2.0\AndroidManifest.xml:12:13-37
@@ -184,7 +184,7 @@
 100-->[androidx.emoji2:emoji2:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\1f6b54f5cbdc781497e11a050562adc3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 101            android:name="androidx.startup.InitializationProvider"
 101-->[androidx.emoji2:emoji2:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\1f6b54f5cbdc781497e11a050562adc3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-102            android:authorities="com.awesomeproject.androidx-startup"
+102            android:authorities="com.folony.androidx-startup"
 102-->[androidx.emoji2:emoji2:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\1f6b54f5cbdc781497e11a050562adc3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 103            android:exported="false" >
 103-->[androidx.emoji2:emoji2:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\1f6b54f5cbdc781497e11a050562adc3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37

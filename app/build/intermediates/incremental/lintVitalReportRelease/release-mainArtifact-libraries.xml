@@ -41,7 +41,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-async-storage_async-storage::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-async-storage\async-storage\android\build\.transforms\aa6adda3ecbf611eedad514a9df353ac\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-async-storage\async-storage\android\build\.transforms\aa6adda3ecbf611eedad514a9df353ac\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-async-storage_async-storage:unspecified"
+      resolved="FoLonY:react-native-async-storage_async-storage:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-async-storage\async-storage\android\build\.transforms\aa6adda3ecbf611eedad514a9df353ac\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -54,7 +54,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-camera::generalRelease"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\.transforms\253c1bb5869d72afc676e2eb8ef563f6\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\.transforms\253c1bb5869d72afc676e2eb8ef563f6\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-camera:unspecified"
+      resolved="FoLonY:react-native-camera:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\.transforms\253c1bb5869d72afc676e2eb8ef563f6\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -67,7 +67,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-device-info::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-device-info\android\build\.transforms\7492f326d56b1de6a5d474cbee5c11f7\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-device-info\android\build\.transforms\7492f326d56b1de6a5d474cbee5c11f7\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-device-info:unspecified"
+      resolved="FoLonY:react-native-device-info:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-device-info\android\build\.transforms\7492f326d56b1de6a5d474cbee5c11f7\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -80,7 +80,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-gesture-handler::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\.transforms\d50dcb045779909135b1faddbcd509e9\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\.transforms\d50dcb045779909135b1faddbcd509e9\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-gesture-handler:unspecified"
+      resolved="FoLonY:react-native-gesture-handler:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\.transforms\d50dcb045779909135b1faddbcd509e9\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -93,7 +93,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-image-picker::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\.transforms\daf2d6659526e8ab456f1ea12f4394d2\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\.transforms\daf2d6659526e8ab456f1ea12f4394d2\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-image-picker:unspecified"
+      resolved="FoLonY:react-native-image-picker:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\.transforms\daf2d6659526e8ab456f1ea12f4394d2\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -119,7 +119,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-safe-area-context::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\.transforms\63acc48636152ebb81a6f533e0b8da93\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\.transforms\63acc48636152ebb81a6f533e0b8da93\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-safe-area-context:unspecified"
+      resolved="FoLonY:react-native-safe-area-context:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\.transforms\63acc48636152ebb81a6f533e0b8da93\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -132,7 +132,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-screens::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-screens\android\build\.transforms\1b15de62c572ce6a90be64bb35961312\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-screens\android\build\.transforms\1b15de62c572ce6a90be64bb35961312\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-screens:unspecified"
+      resolved="FoLonY:react-native-screens:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-screens\android\build\.transforms\1b15de62c572ce6a90be64bb35961312\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -145,7 +145,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-svg::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-svg\android\build\.transforms\a96b71423a97816f953c40c13a13b528\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-svg\android\build\.transforms\a96b71423a97816f953c40c13a13b528\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-svg:unspecified"
+      resolved="FoLonY:react-native-svg:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-svg\android\build\.transforms\a96b71423a97816f953c40c13a13b528\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -158,7 +158,7 @@
   <library
       name="C:\Users\azzam\Documents\project\AwesomeProject\android@@:react-native-vector-icons::release"
       jars="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-vector-icons\android\build\.transforms\3cc364496a965fe4b99d2a453d66480b\transformed\out\jars\classes.jar;C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-vector-icons\android\build\.transforms\3cc364496a965fe4b99d2a453d66480b\transformed\out\jars\libs\R.jar"
-      resolved="AwesomeProject:react-native-vector-icons:unspecified"
+      resolved="FoLonY:react-native-vector-icons:unspecified"
       folder="C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-vector-icons\android\build\.transforms\3cc364496a965fe4b99d2a453d66480b\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"

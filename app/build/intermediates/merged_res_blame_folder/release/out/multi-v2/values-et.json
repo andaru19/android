@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.awesomeproject.app-mergeReleaseResources-30:/values-et/values-et.xml",
+            "outputFile": "com.folony.app-mergeReleaseResources-30:/values-et/values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\azzam\\.gradle\\caches\\transforms-3\\5a8275c8385214868a5c4c37cfef15ee\\transformed\\jetified-play-services-base-17.6.0\\res\\values-et\\values.xml",

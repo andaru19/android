@@ -1,7 +1,0 @@
-#Sat Mar 18 06:06:39 ICT 2023
-base.1=C\:\\Users\\azzam\\Documents\\project\\AwesomeProject\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\6\\classes.dex
-path.1=6/classes.dex
-base.0=C\:\\Users\\azzam\\Documents\\project\\AwesomeProject\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=0/classes.dex
