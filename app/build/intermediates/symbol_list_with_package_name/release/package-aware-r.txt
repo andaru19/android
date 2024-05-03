@@ -1390,10 +1390,14 @@ drawable app_assets_icon_ic_call
 drawable app_assets_icon_ic_callendar
 drawable app_assets_icon_ic_change_foco_coint
 drawable app_assets_icon_ic_change_foco_point
+drawable app_assets_icon_ic_check_box_blank_hub
+drawable app_assets_icon_ic_check_box_hub
 drawable app_assets_icon_ic_checkbox
 drawable app_assets_icon_ic_checkbox_blank
 drawable app_assets_icon_ic_cimg
+drawable app_assets_icon_ic_close_black
 drawable app_assets_icon_ic_cod
+drawable app_assets_icon_ic_cod_s
 drawable app_assets_icon_ic_coint
 drawable app_assets_icon_ic_dana
 drawable app_assets_icon_ic_eye_close
@@ -1405,6 +1409,7 @@ drawable app_assets_icon_ic_gojek
 drawable app_assets_icon_ic_google
 drawable app_assets_icon_ic_gopay
 drawable app_assets_icon_ic_grap
+drawable app_assets_icon_ic_history_pencairan
 drawable app_assets_icon_ic_hub
 drawable app_assets_icon_ic_inventory
 drawable app_assets_icon_ic_jne
@@ -1416,6 +1421,8 @@ drawable app_assets_icon_ic_maxim
 drawable app_assets_icon_ic_new_order
 drawable app_assets_icon_ic_new_send
 drawable app_assets_icon_ic_ovo
+drawable app_assets_icon_ic_pencairan
+drawable app_assets_icon_ic_qris
 drawable app_assets_icon_ic_retur_order
 drawable app_assets_icon_ic_scan
 drawable app_assets_icon_ic_scan_white
@@ -1423,6 +1430,7 @@ drawable app_assets_icon_ic_search
 drawable app_assets_icon_ic_send_hub
 drawable app_assets_icon_ic_share
 drawable app_assets_icon_ic_share_coint
+drawable app_assets_icon_ic_shopee
 drawable app_assets_icon_ic_sicepat
 drawable app_assets_icon_ic_success
 drawable app_assets_icon_ic_switch
@@ -1430,6 +1438,7 @@ drawable app_assets_icon_ic_target
 drawable app_assets_icon_ic_toogle_off
 drawable app_assets_icon_ic_toogle_on
 drawable app_assets_icon_ic_trash
+drawable app_assets_icon_ic_upload
 drawable app_assets_icon_ic_user
 drawable app_assets_icon_ic_user_line
 drawable app_assets_icon_ic_wa
@@ -2975,6 +2984,7 @@ styleable ViewBackgroundHelper android_background backgroundTint backgroundTintM
 styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
 xml imagepicker_provider_paths
+xml provider_paths
 xml rn_dev_preferences
 xml standalone_badge
 xml standalone_badge_gravity_bottom_end

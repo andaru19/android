@@ -4,6 +4,10 @@
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_new_order.png"
     },
     {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_qris.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_qris.png"
+    },
+    {
         "merged": "com.folony.app-merged_res-32:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
         "source": "com.folony.app-react-27:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
@@ -40,6 +44,10 @@
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_arrow_bottom.png"
     },
     {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_history_pencairan.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_history_pencairan.png"
+    },
+    {
         "merged": "com.folony.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "com.folony.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
     },
@@ -52,12 +60,12 @@
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_grap.png"
     },
     {
-        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "com.folony.app-react-27:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
-    },
-    {
         "merged": "com.folony.app-merged_res-32:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
         "source": "com.folony.app-react-27:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
     },
     {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_retur_order.png.flat",
@@ -66,6 +74,10 @@
     {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_howto_invite_hub.png.flat",
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_bg_howto_invite_hub.png"
+    },
+    {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_close_black.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_close_black.png"
     },
     {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_hub.png.flat",
@@ -104,6 +116,10 @@
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_scan_white.png"
     },
     {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_cod_s.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_cod_s.png"
+    },
+    {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_no_img.png.flat",
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_bg_no_img.png"
     },
@@ -138,6 +154,10 @@
     {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_call.png.flat",
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_call.png"
+    },
+    {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_upload.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_upload.png"
     },
     {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_user_line.png.flat",
@@ -176,8 +196,8 @@
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_eye_close.png"
     },
     {
-        "merged": "com.folony.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.folony.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_check_box_hub.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_check_box_hub.png"
     },
     {
         "merged": "com.folony.app-merged_res-32:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
@@ -214,6 +234,10 @@
     {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_bg_card_orange.png.flat",
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_bg_card_orange.png"
+    },
+    {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_pencairan.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_pencairan.png"
     },
     {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_jnt.png.flat",
@@ -288,12 +312,20 @@
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_logistic.png"
     },
     {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_check_box_blank_hub.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_check_box_blank_hub.png"
+    },
+    {
         "merged": "com.folony.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "com.folony.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
         "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_success.png.flat",
         "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_success.png"
+    },
+    {
+        "merged": "com.folony.app-merged_res-32:/drawable-mdpi_app_assets_icon_ic_shopee.png.flat",
+        "source": "com.folony.app-react-27:/drawable-mdpi/app_assets_icon_ic_shopee.png"
     },
     {
         "merged": "com.folony.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",

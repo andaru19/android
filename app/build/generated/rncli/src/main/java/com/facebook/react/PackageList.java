@@ -13,12 +13,16 @@ import java.util.ArrayList;
 
 // @react-native-async-storage/async-storage
 import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
+// @react-native-clipboard/clipboard
+import com.reactnativecommunity.clipboard.ClipboardPackage;
 // react-native-camera
 import org.reactnative.camera.RNCameraPackage;
 // react-native-device-info
 import com.learnium.RNDeviceInfo.RNDeviceInfo;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
+// react-native-get-location
+import com.github.douglasjunior.reactNativeGetLocation.ReactNativeGetLocationPackage;
 // react-native-image-picker
 import com.imagepicker.ImagePickerPackage;
 // react-native-reanimated
@@ -31,6 +35,8 @@ import com.swmansion.rnscreens.RNScreensPackage;
 import com.horcrux.svg.SvgPackage;
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
+// rn-fetch-blob
+import com.RNFetchBlob.RNFetchBlobPackage;
 
 public class PackageList {
   private Application application;
@@ -77,15 +83,18 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
       new AsyncStoragePackage(),
+      new ClipboardPackage(),
       new RNCameraPackage(),
       new RNDeviceInfo(),
       new RNGestureHandlerPackage(),
+      new ReactNativeGetLocationPackage(),
       new ImagePickerPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
       new SvgPackage(),
-      new VectorIconsPackage()
+      new VectorIconsPackage(),
+      new RNFetchBlobPackage()
     ));
   }
 }

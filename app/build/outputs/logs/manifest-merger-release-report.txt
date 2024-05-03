@@ -1,18 +1,21 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
 MERGED from [:react-native-async-storage_async-storage] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-clipboard_clipboard] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-clipboard\clipboard\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalRelease\AndroidManifest.xml:2:1-18:12
 MERGED from [:react-native-device-info] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-device-info\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-get-location] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
 MERGED from [:react-native-safe-area-context] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-svg] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-vector-icons] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-45:12
 MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\azzam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\778fc40b6997960e78093870325a5c85\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\f4e0ca417a0060e8c64c593b341ad690\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -96,25 +99,27 @@ MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\azzam\.
 MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\azzam\.gradle\caches\transforms-3\9215a0156bb67519c47488b972d92fe6\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\azzam\.gradle\caches\transforms-3\32c8f7863969b564e613beeaa3264029\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\2e1cc7070f535d0f5dba19291365f91f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
 	package
 		INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
 		INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
 		INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-35:12
 		INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-67
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-67
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\azzam\.gradle\caches\transforms-3\a11820b85d968c19631a42f76af1c93b\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\azzam\.gradle\caches\transforms-3\a11820b85d968c19631a42f76af1c93b\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\azzam\.gradle\caches\transforms-3\051796935e23aa940f100c84c7be11e8\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
@@ -127,10 +132,40 @@ MERGED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProje
 MERGED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalRelease\AndroidManifest.xml:9:5-65
 	android:name
 		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:4:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:1-74
+	android:name
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:18-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:8:1-76
+MERGED from [:react-native-get-location] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+MERGED from [:react-native-get-location] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:8:18-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:9:2-10:30
+	android:maxSdkVersion
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:10:2-28
+	android:name
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:9:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:11:2-12:30
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:5-81
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:5-81
+	android:maxSdkVersion
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:12:2-28
+	android:name
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:11:19-75
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:13:3-74
+	android:name
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:13:20-71
 application
-ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:5-25:19
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:14:5-34:19
 MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
 MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:5-43:19
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:5-43:19
 MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\azzam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\azzam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\azzam\.gradle\caches\transforms-3\ff06b511a3b64a9f992a538e90dfb504\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
@@ -178,53 +213,59 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\azzam\.gradle\c
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\azzam\.gradle\caches\transforms-3\a74319f16e76beadbf53eb2669b709f5\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:16:7-39
 	android:roundIcon
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:18:7-52
 	android:icon
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:17:7-41
 	android:allowBackup
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:19:7-34
 	android:theme
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:20:7-38
 	android:name
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:15:7-38
 activity#com.folony.MainActivity
-ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:13:7-24:18
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:21:7-33:18
+	android:screenOrientation
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:26:9-45
 	android:label
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:23:9-41
 	android:launchMode
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:25:9-40
 	android:windowSoftInputMode
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:18:9-51
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:27:9-51
 	android:exported
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:19:9-32
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:28:9-32
 	android:configChanges
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:16:9-118
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:24:9-118
 	android:name
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:22:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:20:9-23:25
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:29:9-32:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:21:13-65
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:30:13-65
 	android:name
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:21:21-62
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:30:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:22:13-73
+ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:31:13-73
 	android:name
-		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:22:23-70
+		ADDED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml:31:23-70
 uses-sdk
 INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\azzam\Documents\project\AwesomeProject\android\app\src\main\AndroidManifest.xml
 MERGED from [:react-native-async-storage_async-storage] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-async-storage_async-storage] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-clipboard\clipboard\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\@react-native-clipboard\clipboard\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalRelease\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-camera] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-camera\android\build\intermediates\merged_manifest\generalRelease\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-device-info] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-device-info\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-device-info] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-device-info\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-location] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-location] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-safe-area-context] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
@@ -235,6 +276,8 @@ MERGED from [:react-native-svg] C:\Users\azzam\Documents\project\AwesomeProject\
 MERGED from [:react-native-svg] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\azzam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.3] C:\Users\azzam\.gradle\caches\transforms-3\c1d65957341fab1901066e324a540a74\transformed\jetified-react-android-0.71.3-release\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\azzam\.gradle\caches\transforms-3\778fc40b6997960e78093870325a5c85\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
@@ -439,6 +482,36 @@ ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\Awesome
 		ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
 	android:name
 		ADDED from [:react-native-image-picker] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\azzam\.gradle\caches\transforms-3\051796935e23aa940f100c84c7be11e8\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\azzam\.gradle\caches\transforms-3\051796935e23aa940f100c84c7be11e8\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\azzam\.gradle\caches\transforms-3\e10d42f9790af878bc1fca64d47f0840\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\azzam\.gradle\caches\transforms-3\e10d42f9790af878bc1fca64d47f0840\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-42:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] C:\Users\azzam\Documents\project\AwesomeProject\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-62
 service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
 ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] C:\Users\azzam\.gradle\caches\transforms-3\fca762e6cf5fc0126956ed39ffd224c2\transformed\jetified-play-services-mlkit-barcode-scanning-16.2.0\AndroidManifest.xml:9:9-15:19
 MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] C:\Users\azzam\.gradle\caches\transforms-3\2dde5d194bd4e52116b9bf1fb1a1314b\transformed\jetified-play-services-mlkit-face-detection-16.2.0\AndroidManifest.xml:9:9-15:19
@@ -541,12 +614,6 @@ ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\azzam\.gradle\c
 		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\azzam\.gradle\caches\transforms-3\00e31c29ff8f041470feab912fa976cf\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 	android:name
 		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\azzam\.gradle\caches\transforms-3\00e31c29ff8f041470feab912fa976cf\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\azzam\.gradle\caches\transforms-3\051796935e23aa940f100c84c7be11e8\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\azzam\.gradle\caches\transforms-3\e10d42f9790af878bc1fca64d47f0840\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\azzam\.gradle\caches\transforms-3\e10d42f9790af878bc1fca64d47f0840\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
-	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\azzam\.gradle\caches\transforms-3\051796935e23aa940f100c84c7be11e8\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:22-76
 service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
 ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\azzam\.gradle\caches\transforms-3\051796935e23aa940f100c84c7be11e8\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\azzam\.gradle\caches\transforms-3\e10d42f9790af878bc1fca64d47f0840\transformed\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
