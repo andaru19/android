@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.folony.app-mergeDebugResources-30:/values-small-v4/values-small-v4.xml",
+            "outputFile": "com.folony.app-mergeDebugResources-42:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\azzam\\.gradle\\caches\\transforms-3\\ff06b511a3b64a9f992a538e90dfb504\\transformed\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\azzam\\.gradle\\caches\\transforms-3\\3e29bc2ec584caf4124bef52d95c45aa\\transformed\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
