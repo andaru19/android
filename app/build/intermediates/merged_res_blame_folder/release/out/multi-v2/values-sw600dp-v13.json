@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.folony.app-mergeReleaseResources-31:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "com.folony.app-mergeReleaseResources-42:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\azzam\\.gradle\\caches\\transforms-3\\3e29bc2ec584caf4124bef52d95c45aa\\transformed\\material-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

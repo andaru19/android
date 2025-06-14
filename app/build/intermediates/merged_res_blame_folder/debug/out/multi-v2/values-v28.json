@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.folony.app-mergeDebugResources-31:/values-v28/values-v28.xml",
+            "outputFile": "com.folony.app-mergeDebugResources-42:/values-v28/values-v28.xml",
             "map": [
                 {
                     "source": "C:\\Users\\azzam\\.gradle\\caches\\transforms-3\\3e29bc2ec584caf4124bef52d95c45aa\\transformed\\material-1.1.0\\res\\values-v28\\values-v28.xml",
